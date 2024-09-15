@@ -1,0 +1,17 @@
+*.log
+*.tmp
+*.swp
+node_modules/
+AppData/
+config.json
+*.class
+Anwendungsdaten/
+Cookies/
+Druckumgebung/
+Eigene Dateien/
+Lokale Einstellungen/
+Netzwerkumgebung/
+Recent/
+SendTo/
+Startmenü/
+Vorlagen/
